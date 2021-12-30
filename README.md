@@ -1,5 +1,5 @@
 # Kodluyoruz Ilk Repo
-Bu repo [kodluyoruz](kodluyoruz.org) için olşuturduğum ilk repo. İçerisinde bir adet index.html ve bir adet README dosyası içermektedir.
+Bu repo [kodluyoruz](https://kodluyoruz.org) için olşuturduğum ilk repo. İçerisinde bir adet index.html ve bir adet README dosyası içermektedir.
 ***
 ## Installation
 Projeyi bu şekilde cloneladım.
